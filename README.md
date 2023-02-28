@@ -3,6 +3,8 @@
 # Sujet : Jeu pokémon. 
   Visualisation via une interface WEB  du plateau virtualisé sur lequel se déplcace le robot. Chaque obstacle fixe rencontrer par le robot équivaudra sur l'interface virtuel à un ennemi à combattre ou à fuir. 
 
+![](DiagramRobotPTC.png)
+
 # Etape 1 : se déplacer
   -	Moteur, STM32 .
   - Alix Galiléo
