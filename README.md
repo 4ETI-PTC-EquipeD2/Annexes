@@ -28,3 +28,9 @@
 -	Rst du robot position zéro
 
 Support : STM32(C) et Raspberry (Python)
+
+# Terrain de jeu
+
+Le terrain a une taille de 3 par deux mètres. Il est découpé en matrice de (6,4) chaque carré de la matrice fait donc 0,5m par 0,5m. Le robot va donc pouvoir se déplacer de case en case. Il va regarder les obstacles sur une vision ligne colonne (mouvement du capteur de 90° en 90°).
+
+![](Terrain_de_jeu.png)
